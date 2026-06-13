@@ -1,4 +1,4 @@
-# SpectralBottlenect
+# SpectralBottleneck
 
 **When Regularization Backfires: Understanding the Color Bias Paradox in Deep Neural Networks**
 
